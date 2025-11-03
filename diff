@@ -1,1 +1,13 @@
 index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Unit 3 Project</title>
+</head>
+<body>
+  <h1>Welcome to My GitHub Pages Site</h1>
+  <p>This site is hosted directly from my GitHub repository.</p>
+</body>
+</html>
+
