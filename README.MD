@@ -14,3 +14,5 @@ print("Hello, Markdown!")
 
 A Code of Conduct maintains respectful behavior among contributors.
 It ensures a safe and welcoming environment for open-source collaboration
+
+Project files organized into src and tests.
